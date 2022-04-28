@@ -43,7 +43,7 @@ nav  ul li{
    width: 150px;
 }
 .lloggo{
-    margin-leftt: -3%;
+    margin-left: -3%;
 }
 .logo{
     margin-left: 10%;
@@ -53,6 +53,7 @@ img{
     margin-top: -30%;
     float: right;
     padding-right: 30px;
+    background-image: url(spc.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -119,18 +120,18 @@ img{
 }
 .icona{
     margin-top: -15%;
-   margin-left: 15%;
+   margin-left: 18%;
 }
 .iconb{
     margin-top: -15%;
-    margin-left: 8%;
+    margin-left: 10%;
 }
 .iconc{
     margin-top: -15%;
-    margin-left: 8%;
+    margin-left: 10%;
 }
 .icond{
-    margin-left: 3%;
+    margin-left: 5%;
     margin-top: -15%;
 }
 .container1{
@@ -161,7 +162,7 @@ img{
 }
 .image{
     float: left;
-    margin-top: 5%;
+    margin-top: 8%;
 }
 .work{
     background-color: white;
@@ -170,12 +171,13 @@ img{
     margin-top: 5%;
 }
 .circle{
-    padding-top: 5%;
+    text-align: center;
+    padding: 5%;
     color: white;
     background-color:rgb(108, 108, 189);
     border-radius: 50%;
-    height: 15%;
-    width: 20%;
+    height: 10%;
+    width: 10%;
     font-size: 25px;
 }
 .pc{
@@ -187,6 +189,15 @@ img{
     height: 10%;
     width: 10%;
 
+}
+.crown{
+    padding: 5%;
+    border-radius: 50%;
+    background-color: rgb(108, 110, 15);
+    color: white;
+    font-size: 25px;
+    height: 10%;
+    width: 10%;
 }
 .work p1{
     color: aqua;
@@ -202,6 +213,9 @@ img{
    background-color:cadetblue;
    border-radius: 40%;
    width: 5%;
+}
+.one{
+    
 }
 .work h4{
     margin-top: 10%;
@@ -220,6 +234,7 @@ img{
    width: 5%
 }
 .container2{
+    height: 40vh;
     background-color: white;
     margin-left: 5%;
     margin-right: 5%;
@@ -233,7 +248,7 @@ img{
 }
 .email
 {
-    background-color: bisque;
+    background-color: rgb(196, 248, 255);
     width: 30%;
     margin-left: 30%;
     padding: 2%;
@@ -246,6 +261,7 @@ img{
     margin-right: 5%;
 }
 .container3{
+    height: 80vh;
     background-color: white;
     margin-right:5%;
     margin-left: 5%;
@@ -254,13 +270,15 @@ img{
 }
 .assp{
     float:right;
-    margin-top: 20%;
+    margin-top: 18%;
+    margin-left: 20%;
 }
 .project{
     margin-left: 10%;
 }
 .message{
     margin-left: 10%;
+    
 }
 .name{
     margin-left: 10%;
@@ -268,6 +286,7 @@ img{
 .container3 p{
     color: aqua;
 }
+
 .last{
     margin-top: 2%;
     margin-left: 10%;
@@ -284,7 +303,8 @@ img{
 
     
 }
-.msg{
-    background-color:  rgb(241, 234, 234);
+#msg{
+    height: 500px;
+    background-color:  bisque;
 }
        
