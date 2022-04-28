@@ -1,0 +1,290 @@
+
+                
+body{
+    background-color: rgb(241, 234, 234);
+    background-size: cover;
+    overflow-x: hidden;
+   
+
+}
+.container{
+    margin-top: 5%;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.navbar{
+    display: flex;
+    justify-items: center;   
+}
+
+nav{
+    flex: 1;
+    padding-left: 15%;
+
+}
+
+nav  ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0px 20px;
+    outline: none;
+    margin-top: 5%;
+}
+.btn{
+    margin-top: 5%;
+   margin-bottom: 50%;
+   background-color: #7dc0c4;
+   padding: 2%;  
+   margin-right: 20%;        
+   float: right;
+   border-radius: 1500px;
+   height: 50px;
+   width: 150px;
+}
+.lloggo{
+    margin-leftt: -3%;
+}
+.logo{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+img{
+    margin-top: -30%;
+    float: right;
+    padding-right: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+   margin-top: -20%;
+   margin-left: 10%;
+}
+.butn{
+    background-color: #7dc0c4;
+    padding: 1%;  
+    margin-bottom: 40%; 
+    margin-right: 15%;        
+    float: right;
+    border-radius: 2000px;
+    height: 50px;
+    width: 150px;
+ 
+}
+.button{
+    background-color: #e5eff0;
+    padding: 1%;  
+    border-radius: 1500px;
+    margin-bottom: 40%;
+    height: 60px;
+    width: 150px;  
+}
+.style{
+   display: flex;
+   margin-top: 5%;
+}
+.insta{
+    color:orange;
+    font-size: 58px;
+}
+.twitter{color: rgb(15, 107, 110);
+    font-size: 58px;
+    margin-left: 10%;
+    margin-top: -6%;
+    
+}
+.bottom{
+    margin-top: -13%;
+    margin-left: 15%;
+    margin-bottom: 20%;
+    text-align: center;
+    width: 100%;
+    display :flex;
+}
+.bot1{
+    border: 2px solid rgb(167, 155, 155);
+    padding: 5%;
+    
+}
+.bot2{
+    border: 2px solid rgb(167,155,155);
+    padding: 5%;
+}
+.bot3{
+    border: 2px solid rgb(167, 155, 155);
+    padding: 5%;
+}
+.icons{
+    display: flex;
+}
+.icona{
+    margin-top: -15%;
+   margin-left: 15%;
+}
+.iconb{
+    margin-top: -15%;
+    margin-left: 8%;
+}
+.iconc{
+    margin-top: -15%;
+    margin-left: 8%;
+}
+.icond{
+    margin-left: 3%;
+    margin-top: -15%;
+}
+.container1{
+    text-align: center;
+}
+.tables{
+    display: flex;
+}
+.design{
+    background-color: rgb(196, 243, 255);
+    margin-left: 5%;
+    text-align: center;
+    height: 50vh;
+    width: 50%;
+}
+.devt{
+    background-color: aquamarine;
+    text-align: center;
+    height: 50vh;
+    width: 50%;
+}
+.market{
+    margin-right:5%;
+    background-color: rgb(196,243,255);
+    text-align: center;
+    height: 50vh;
+    width: 50%;
+}
+.image{
+    float: left;
+    margin-top: 5%;
+}
+.work{
+    background-color: white;
+    margin-right: 5%;
+    margin-left: 60%;
+    margin-top: 5%;
+}
+.circle{
+    padding-top: 5%;
+    color: white;
+    background-color:rgb(108, 108, 189);
+    border-radius: 50%;
+    height: 15%;
+    width: 20%;
+    font-size: 25px;
+}
+.pc{
+    padding: 5%;
+    border-radius: 50%;
+    background-color: rgb(15,107,110);
+    color: white;
+    font-size: 25px;
+    height: 10%;
+    width: 10%;
+
+}
+.work p1{
+    color: aqua;
+    
+}
+.work h5{
+    margin-top: -8%;
+    margin-left: 8%;
+}
+.work h3{
+    color: white;
+    text-align: center;
+   background-color:cadetblue;
+   border-radius: 40%;
+   width: 5%;
+}
+.work h4{
+    margin-top: 10%;
+    color: white;
+    text-align: center;
+   background-color:rgb(95, 107, 160);
+   border-radius: 40%;
+   width: 5%;
+}
+.work h2{
+    margin-bottom: 5%;
+    color: white;
+    text-align: center;
+   background-color:rgb(221, 218, 17);
+   border-radius: 40%;
+   width: 5%
+}
+.container2{
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+#subb{
+    background-color: #7dc0c4;
+    padding: 4%;
+    margin-left: 40%;
+    border-radius: 10px;
+}
+.email
+{
+    background-color: bisque;
+    width: 30%;
+    margin-left: 30%;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.sctn{
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.container3{
+    background-color: white;
+    margin-right:5%;
+    margin-left: 5%;
+    
+
+}
+.assp{
+    float:right;
+    margin-top: 20%;
+}
+.project{
+    margin-left: 10%;
+}
+.message{
+    margin-left: 10%;
+}
+.name{
+    margin-left: 10%;
+}
+.container3 p{
+    color: aqua;
+}
+.last{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.bt{
+    background-color: #7dc0c4;
+    padding: 1%;  
+    border-radius: 2000px;
+    height: 50px;
+    width: 150px;
+}
+.name .nam{
+    background-color:  rgb(207, 40, 40);
+
+    
+}
+.msg{
+    background-color:  rgb(241, 234, 234);
+}
+       
